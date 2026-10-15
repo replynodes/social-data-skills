@@ -1,3 +1,4 @@
+> **Retired.** This repository is no longer maintained. ReplyNodes is now the read-only web context API for AI agents — see https://replynodes.com/ and the MCP server at https://github.com/replynodes/replynodes-mcp.
 # ReplyNodes social-data-skills (retired)
 
 This repository is retained for historical reference only. Its former social-provider skill distribution is not a current ReplyNodes product surface and should not be used as an installation or capability guide.
